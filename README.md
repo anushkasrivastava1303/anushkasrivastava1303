@@ -8,7 +8,7 @@ I am a highly motivated and detail-oriented junior pursuing a Bachelor of Techno
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anushkatia1303@gmail.com](mailto:anushkatia1303@gmail.com)
-* 🚀  I'm currently working on Plagiarism Detector
+* 🚀  I'm currently working on Plagiarism Detector and Voice Assistant
 * 🧠  I'm learning OpenCV
 * 🤝  I'm open to collaborating on projects related to artificial intelligence and machine learning
 
