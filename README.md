@@ -8,7 +8,7 @@ I am a highly motivated and detail-oriented junior pursuing a Bachelor of Techno
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anushkatia1303@gmail.com](mailto:anushkatia1303@gmail.com)
-* 🚀  I'm currently working on Plagiarism Detector and Voice Assistant
+* 🚀  I'm currently working Plagiarism Detector and Voice Assistant
 * 🧠  I'm learning OpenCV
 * 🤝  I'm open to collaborating on projects related to artificial intelligence and machine learning
 
@@ -20,7 +20,7 @@ I am a highly motivated and detail-oriented junior pursuing a Bachelor of Techno
 </p>
 
 
-### Socials
+### Social
 
 <p align="left"> <a href="https://www.github.com/anushkasrivastava1303" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anushkaasrivastava/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
