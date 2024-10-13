@@ -7,7 +7,7 @@ Artificial Intelligence with Machine Learning in Python
 I am a highly motivated and detail-oriented senior pursuing a Bachelor of Technology in Artificial Intelligence discipline. I have a strong background in project management, and I am passionate about leveraging my analytical skills to drive growth and optimize efficiency. I have the ability to work effectively within cross-functional teams which has enabled me to foster strong working relationships and drive collective success. I am committed to personal and professional development, always seeking opportunities to expand my knowledge and skillset to stay at the forefront of my field.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [anushkatia1303@gmail.com](mailto:anushkatia1303@gmail.com)
+* ✉️  You can contact me at [anushkatia1303@gmail.com](mailto:anushkasrivastava0103@gmail.com)
 * 🚀  I'm currently working Plagiarism Detector and Voice Assistant
 * 🧠  I'm learning OpenCV
 * 🤝  I'm open to collaborating on projects related to artificial intelligence and machine learning
